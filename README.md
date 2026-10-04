@@ -35,7 +35,9 @@
 
 ## 安装
 
-从 [v0.3.0 发布页](https://github.com/Yang-huai406/GPT-Dragon-Girl/releases/tag/v0.3.0) 下载 `GPT小龙娘-v0.3.0.zip`，校验随附 SHA-256 后，**完整解压**到固定目录。源码、测试和开发材料在同页的 `GPT小龙娘-v0.3.0-source.zip`。不要从 ZIP 内直接运行脚本。
+从 [v0.3.0 发布页](https://github.com/Yang-huai406/GPT-Dragon-Girl/releases/tag/v0.3.0) 下载 [GPT-Dragon-Girl-v0.3.0.zip](https://github.com/Yang-huai406/GPT-Dragon-Girl/releases/download/v0.3.0/GPT-Dragon-Girl-v0.3.0.zip)，校验随附 SHA-256 后，**完整解压**到固定目录。源码、测试和开发材料在 [GPT-Dragon-Girl-v0.3.0-source.zip](https://github.com/Yang-huai406/GPT-Dragon-Girl/releases/download/v0.3.0/GPT-Dragon-Girl-v0.3.0-source.zip)。不要从 ZIP 内直接运行脚本。
+
+GitHub 实际下载使用上述英文文件名；旧文档中的 `GPT小龙娘-v0.3.0.zip` 和 `GPT小龙娘-v0.3.0-source.zip` 分别是同一安装包和源码包的中文显示名，包内容与 SHA-256 均不变。
 
 需要支持插件功能的 Codex 桌面应用、**Node.js 24+（含 npm）**和首次下载依赖的网络。桌面组件使用 **Electron 44.3.0**；此包不包含预装运行时，不是离线 EXE。
 

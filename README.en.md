@@ -35,7 +35,9 @@ The default content contains balance, usage and GPT petpet interaction. It has *
 
 ## Installation
 
-Download `GPT小龙娘-v0.3.0.zip` from the [v0.3.0 release page](https://github.com/Yang-huai406/GPT-Dragon-Girl/releases/tag/v0.3.0), verify it against the supplied SHA-256 file, and **extract the entire archive** to a stable directory. Source, tests and developer materials are in `GPT小龙娘-v0.3.0-source.zip` on the same page. Do not run scripts from inside the ZIP.
+Download [GPT-Dragon-Girl-v0.3.0.zip](https://github.com/Yang-huai406/GPT-Dragon-Girl/releases/download/v0.3.0/GPT-Dragon-Girl-v0.3.0.zip) from the [v0.3.0 release page](https://github.com/Yang-huai406/GPT-Dragon-Girl/releases/tag/v0.3.0), verify it against the supplied SHA-256 file, and **extract the entire archive** to a stable directory. Source, tests and developer materials are in [GPT-Dragon-Girl-v0.3.0-source.zip](https://github.com/Yang-huai406/GPT-Dragon-Girl/releases/download/v0.3.0/GPT-Dragon-Girl-v0.3.0-source.zip). Do not run scripts from inside the ZIP.
+
+GitHub downloads use the ASCII filenames above. The names `GPT小龙娘-v0.3.0.zip` and `GPT小龙娘-v0.3.0-source.zip` in earlier documentation are the Chinese display names for the same install and source archives, respectively; their contents and SHA-256 hashes are unchanged.
 
 Requirements: Codex desktop with plugin support, **Node.js 24+ including npm**, and network access for the initial dependency download. The desktop runtime is **Electron 44.3.0**. This archive does not bundle an installed runtime and is not an offline executable.
 
