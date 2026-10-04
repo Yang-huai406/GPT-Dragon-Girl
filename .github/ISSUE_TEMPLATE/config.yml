@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 安装与使用 / Installation and use
+    url: https://github.com/Yang-huai406/GPT-Dragon-Girl#readme
+    about: GPT小龙娘中英文 README、安装、重启与回滚 / Bilingual README, installation, restart and rollback.
+  - name: 验证范围 / Verification scope
+    url: https://github.com/Yang-huai406/GPT-Dragon-Girl/blob/main/docs/VERIFICATION-GPT-0.3.0.md
+    about: 当前 GPT v0.3.0 的检查与已知限制 / Checks and limitations of this GPT v0.3.0 build.
+  - name: 安全漏洞 / Security vulnerability
+    url: https://github.com/Yang-huai406/GPT-Dragon-Girl/security/advisories/new
+    about: 私密报告安全问题，请勿公开凭据 / Report privately; never disclose credentials.
+  - name: 上游项目 / Upstream project
+    url: https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget
+    about: MeteorNOX 的原小鲸鱼项目 / The original whale project by MeteorNOX.

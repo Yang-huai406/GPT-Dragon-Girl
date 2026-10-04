@@ -1,0 +1,18 @@
+{
+  "widgetLevel7.bubbleReadFailed": "Could not load bubble settings. Try again.",
+  "widgetLevel7.audioPreviewFailed": "Could not preview audio. Try again.",
+  "widgetLevel7.settingsReadFailed": "Could not load settings",
+  "widgetLevel7.accountSpend": "New account spend",
+  "widgetLevel7.accountSpendNote": "Observed account charges since the last spend notice. May include concurrent tasks, other devices, or delayed billing; not attributed to a single conversation.",
+  "widgetLevel7.complete": "Completed",
+  "widgetLevel7.failed": "Failed",
+  "widgetLevel7.cancelled": "Cancelled",
+  "widgetLevel7.conversation": "Chat {ref} · {status}",
+  "widgetLevel7.usagePending": "Usage pending",
+  "widgetLevel7.smallSpend": "Small charges included · ",
+  "widgetLevel7.accountSinceLast": "Since last notice",
+  "widgetLevel7.accountConcurrent": " · Concurrent tasks",
+  "widgetLevel7.accountTotal": " · Account total",
+  "widgetLevel7.roundUnconfirmed": "Turn cost not confirmed",
+  "widgetLevel7.billConfirmed": "Billing confirmed"
+}

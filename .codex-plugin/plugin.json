@@ -1,0 +1,36 @@
+{
+  "name": "api-balance-whale",
+  "version": "0.3.0",
+  "description": "随 Codex 桌面应用自动启停的 GPT小龙娘；无独立网页，保留拖动、点击、角色、气泡、音效和账本。",
+  "author": {
+    "name": "Yang-huai406",
+    "url": "https://github.com/Yang-huai406"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "GPT小龙娘",
+    "shortDescription": "支持 Windows/macOS 的余额与订阅用量挂件，可跟随 Codex 或独立显示。",
+    "longDescription": "保留 PR #128 macOS 支持；提供当前 API 余额、本机已观测 token、订阅额度快照、DeepSeek 峰谷、音效与本地工坊。金额与订阅额度分别展示，不把观测统计当作官方账单。",
+    "developerName": "Yang-huai406",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive"
+    ],
+    "defaultPrompt": [
+      "显示 GPT小龙娘",
+      "查看当前 API 余额与今日用量",
+      "检查GPT小龙娘自动跟随状态"
+    ],
+    "brandColor": "#7865A5",
+    "composerIcon": "./assets/gpt-icon.png",
+    "logo": "./assets/gpt-icon.png"
+  },
+  "license": "MIT",
+  "keywords": [
+    "api",
+    "balance",
+    "whale",
+    "codex"
+  ],
+  "mcpServers": "./.mcp.json"
+}

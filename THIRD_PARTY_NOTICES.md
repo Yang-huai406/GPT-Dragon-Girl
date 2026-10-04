@@ -1,0 +1,10 @@
+# Third-party notices
+
+- **GPT Dragon Girl / GPT小龙娘** is a bilingual balance plugin product line, maintained in [Yang-huai406/GPT-Dragon-Girl](https://github.com/Yang-huai406/GPT-Dragon-Girl). Its default content removes the predecessor's built-in character memes. This independent repository is owned and maintained by Yang-huai406; ownership of the upstream repository remains with MeteorNOX.
+
+- **GPT小龙娘 artwork and petpet animation**: supplied by the user for this product. The PNG derivatives and embedded fallback use that supplied artwork; the GIF retains the supplied animation. These assets are separate from the original upstream artwork and are not claimed as original work or sublicensed by the code's MIT license.
+
+- **dsh-whale-widget 0.3.0-beta**, Copyright (c) 2026 MeteorNOX, MIT License. The original images, GIFs, audio files and substantial widget UI/host code are retained or adapted. See `LICENSE` and `docs/UPSTREAM-README.md`.
+- **Codex adaptation and platform contributions**: [Yang-huai406](https://github.com/Yang-huai406) contributed the Codex adaptation. [1llysviel](https://github.com/1llysviel)'s [macOS PR #128](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget/pull/128), including its platform implementation and attribution, is retained. The upstream [DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget) remains owned by [MeteorNOX](https://github.com/MeteorNOX); these contributions do not transfer upstream ownership or erase its copyright.
+- **smol-toml 1.8.0**, Cynthia Rey and contributors, BSD-3-Clause. An unmodified copy of the published package is included in `vendor/smol-toml/`; see `vendor/smol-toml/LICENSE`. It is loaded directly so the Codex plugin does not require an npm install step.
+- **Electron 44.3.0**, Electron contributors, MIT License with bundled Chromium and third-party notices. Electron is downloaded separately by the optional desktop installer; its own license and notices are retained in the installed desktop runtime and are not replaced by this project's license.

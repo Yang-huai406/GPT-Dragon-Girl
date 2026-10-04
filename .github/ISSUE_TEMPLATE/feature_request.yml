@@ -1,0 +1,46 @@
+name: 功能建议 / Feature request
+description: 为 GPT小龙娘余额插件提建议 / Suggest an improvement to GPT Dragon Girl.
+title: "[Feature] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        请先查看 README 和 CHANGELOG。GPT小龙娘是支持中英切换、去除旧角色玩梗的独立产品线。
+        Please read the README and CHANGELOG first. GPT Dragon Girl is an independent bilingual product without the predecessor's meme dialogue.
+  - type: dropdown
+    id: area
+    attributes:
+      label: 方向 / Area
+      options:
+        - 界面与交互 / UI and interaction
+        - 中英文与排版 / Languages and text layout
+        - 余额与用量 / Balance and usage
+        - 安装与稳定性 / Installation and reliability
+        - 素材与音效 / Media and audio
+        - 文档或其他 / Documentation or other
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: 你想解决什么问题 / Problem to solve
+      description: 描述使用场景与现状。 / Describe your use case and current behavior.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 你设想的做法（可选） / Proposed solution (optional)
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: 试过的替代方案（可选） / Alternatives tried (optional)
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: 确认 / Confirmation
+      options:
+        - label: 我没有包含真实密钥或凭据。 / I have included no real secrets or credentials.
+          required: true
+        - label: 我已搜索现有 issue 和文档。 / I have searched existing issues and documentation.
+          required: true

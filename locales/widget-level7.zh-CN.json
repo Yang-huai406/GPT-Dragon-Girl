@@ -1,0 +1,18 @@
+{
+  "widgetLevel7.bubbleReadFailed": "气泡配置读取失败，请重试",
+  "widgetLevel7.audioPreviewFailed": "音频预览失败，请重试",
+  "widgetLevel7.settingsReadFailed": "设置读取失败",
+  "widgetLevel7.accountSpend": "账户新增消耗",
+  "widgetLevel7.accountSpendNote": "自上次消费提示以来的账户已观测新增扣费；可能包含并行任务、其他设备或延迟入账，不归属于某个对话。",
+  "widgetLevel7.complete": "完成",
+  "widgetLevel7.failed": "失败",
+  "widgetLevel7.cancelled": "取消",
+  "widgetLevel7.conversation": "对话 {ref} · {status}",
+  "widgetLevel7.usagePending": "用量待确认",
+  "widgetLevel7.smallSpend": "小额用量已累计 · ",
+  "widgetLevel7.accountSinceLast": "自上次提示以来",
+  "widgetLevel7.accountConcurrent": " · 含并行任务",
+  "widgetLevel7.accountTotal": " · 账户合计",
+  "widgetLevel7.roundUnconfirmed": "本轮费用未单独确认",
+  "widgetLevel7.billConfirmed": "账单确认"
+}
